@@ -1,0 +1,19 @@
+{
+  "name": "aleksandra-banovic",
+  "version": "1.0.0",
+  "description": "Aleksandra Banovic Interior Design",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stojicic/abid.git"
+  },
+  "author": "srdan <srlesija@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stojicic/abid/issues"
+  },
+  "homepage": "https://github.com/stojicic/abid#readme"
+}
