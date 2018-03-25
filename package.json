@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/stojicic/abid/issues"
   },
-  "homepage": "https://github.com/stojicic/abid#readme"
+  "homepage": "https://github.com/stojicic/abid#readme",
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
 }
